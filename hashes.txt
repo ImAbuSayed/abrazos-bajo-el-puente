@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Abrazos bajo el puente
+
+This log tracks the cryptographic history and versioning for the song **Abrazos bajo el puente** (abrazos-bajo-el-puente).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T03:57:58.085547 | `v1` | `7a873afd01842573545a81ec61728efbd854517e12853c3383ef1aafe864423a` | `74cedb95383a70979de0b8cd314f5182cc26394e0bd3db626dd1d5a2030ce694` | `2026-06-13_abrazos-bajo-el-puente-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
