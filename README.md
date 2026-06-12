@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazos-bajo-el-puente/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Abrazos bajo el puente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazos-bajo-el-puente/) |
+| **Get License** | [Music Rights & Licensing for Abrazos bajo el puente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazos-bajo-el-puente/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la noche es nuestra, apaga ya el celular
+> Bajo el puente de Madrid, te voy a enamorar
+> Tus labios saben a pecado, aventura y peligro
+> Ven, escápate conmigo, que yo soy tu abrigo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
